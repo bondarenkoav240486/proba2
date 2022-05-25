@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React<br/>
+          react-todo-2
         </a>
       </header>
     </div>
